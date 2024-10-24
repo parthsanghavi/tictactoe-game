@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# TicTacToe Game LLD
 
 This project contains the low level design and implementation of the tictactoe game. 
 It has main.java as the driver class.
